@@ -19,6 +19,7 @@ lib64/
 parts/
 sdist/
 var/
+pipi/
 wheels/
 share/python-wheels/
 *.egg-info/
@@ -149,6 +150,7 @@ activemq-data/
 
 # Environments
 .env
+.env.example
 .envrc
 .venv
 env/
